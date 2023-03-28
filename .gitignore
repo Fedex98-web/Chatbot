@@ -1,0 +1,5 @@
+# created by virtualenv automatically
+secret.py
+*.png
+.idea/
+venv/
